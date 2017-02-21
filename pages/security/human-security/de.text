@@ -37,6 +37,9 @@ nicht ausreichend zu erklären, oder erläutern warum dies gemacht wird, sondern
 
 * Konsumiere keine Information, nach der Du nicht gefragt hast. Sei vorsichtig bei Menschen, die Katastrophen benutzen, um emotionale Anfragen zu stellen.
 
+Siehe dazu auch das online verfügbare Buch "Social Engineering: The Art of Human Hacking" by Christopher Hadnagy.
+
+
 h2. Spüre die Liebe von freier Software
 
 Warum solltest du lieber GNU/Linux anstatt Windows oder Mac OS verwenden? Es gibt verschiedene Gründe, einer der größten ist, dass sie durch die vielen Viren, Trojaner, Hintertüren, Sicherheitslücken, gezielter Regierungsangriffe und anderer Exploits über die Jahre nicht mehr vertrauenswürdig sind. Das gilt besonders, weil dir keine Möglichkeit gelassen wird, unter die Haube zu schauen um zu sehen, ob das was die Betriebsysteme machen, auch in Ordnung ist. Die Software ist proprietär und Closed-Source, das bedeutet, dass du deine privaten Informationen Unternehmen anvertraust, deren einziger Fokus der Profit ist, nicht die Sicherheit deiner persönlichen Daten und du hast keine Chance die Methoden des Unternehmens zu überprüfen. 
